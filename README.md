@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on a new Portfolio and various React personal projects
 - 📫 How to reach me: jamesmpdev@gmail.com
+- 😄 Pronouns: (he/him)
 <br/>
 <hr/>
 
