@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on a new Portfolio and various React personal projects <br/> <br/>
+- 🔭 Outside of my work as a Front End Developer at Mindera UK, I'm also working on various side projects, some of which can be found here! <br/> <br/>
 
 - 📫 How to reach me: jamesmpdev@gmail.com <br/> <br/>
 
